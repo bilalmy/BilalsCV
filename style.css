@@ -1,0 +1,92 @@
+#cvh1
+{
+    nt-size:x-large;
+    text-align: center;
+    color:aliceblue;
+    background-color: brown;
+    font-weight: bold;
+    font-size: 300%;
+padding-top: 0%;
+
+}
+
+#preid{
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#careerid
+{
+    nt-size:x-large;
+    text-align: center;
+   color:aliceblue;
+    background-color: brown;
+    font-weight: bold;
+    font-size: 300%;
+}
+#projectid
+{
+    nt-size:x-large;
+    text-align: center;
+   color:aliceblue;
+    background-color: brown;
+    font-weight: bold;
+    font-size: 300%;   
+}
+
+#pids
+{
+    font-size: 150%;
+}
+#image1
+{
+    margin-left: 92%;
+    width: 115px;
+    
+}
+
+#image2
+{
+    width: 30px;   
+}
+#pid
+{
+    font-size: 150%;
+}
+
+#Educationid
+{
+    font-size:x-large;
+    text-align: center;
+   color:aliceblue;
+    background-color: brown;
+    font-weight: bold;
+    font-size: 300%;  
+}
+
+#skillid
+{
+    font-size:x-large;
+    text-align: center;
+   color:aliceblue;
+    background-color: brown;
+    font-weight: bold;
+    font-size: 300%; 
+}
+#experienceid
+{
+    font-size:x-large;
+    text-align: center;
+   color:aliceblue;
+    background-color: brown;
+    font-weight: bold;
+    font-size: 300%;   
+}
+
+li
+{
+    font-size: 150%;
+}
+body{
+background-image:url(bg.jpg);
+}
