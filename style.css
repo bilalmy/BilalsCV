@@ -1,35 +1,46 @@
+body{
+    background-image: url("BG3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
 #cvh1
 {
-    nt-size:x-large;
+    font-size:x-large;
     text-align: center;
     color:aliceblue;
-    background-color: brown;
+    background-color:orange;
     font-weight: bold;
     font-size: 300%;
 padding-top: 0%;
-
+margin-top: 0%;
 }
 
 #preid{
     font-size:x-large;
     font-family: 'Times New Roman', Times, serif;
+    margin-left:30px ;
 }
 
 #careerid
 {
-    nt-size:x-large;
+    font-size:x-large;
     text-align: center;
    color:aliceblue;
-    background-color: brown;
+    background-color:#333333;
     font-weight: bold;
     font-size: 300%;
+    
 }
 #projectid
 {
-    nt-size:x-large;
+    font-size:x-large;
     text-align: center;
    color:aliceblue;
-    background-color: brown;
+    background-color:#6A0DAD;
     font-weight: bold;
     font-size: 300%;   
 }
@@ -40,9 +51,8 @@ padding-top: 0%;
 }
 #image1
 {
-    margin-left: 92%;
+    margin-left: 87%;
     width: 115px;
-    
 }
 
 #image2
@@ -52,6 +62,7 @@ padding-top: 0%;
 #pid
 {
     font-size: 150%;
+    margin-left: 30px;
 }
 
 #Educationid
@@ -59,7 +70,7 @@ padding-top: 0%;
     font-size:x-large;
     text-align: center;
    color:aliceblue;
-    background-color: brown;
+    background-color:#2ECC40;
     font-weight: bold;
     font-size: 300%;  
 }
@@ -69,7 +80,7 @@ padding-top: 0%;
     font-size:x-large;
     text-align: center;
    color:aliceblue;
-    background-color: brown;
+    background-color:#001f3f;
     font-weight: bold;
     font-size: 300%; 
 }
@@ -87,6 +98,4 @@ li
 {
     font-size: 150%;
 }
-body{
-background-image:url(bg.jpg);
-}
+
